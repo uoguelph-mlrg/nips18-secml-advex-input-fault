@@ -6,5 +6,5 @@ The initial release is PyTorch, with a TensorFlow notebook coming soon.
 
 The main depenencies are
 - `python 3.6.x`
-- `pytorch (tested primarily with 0.4.1)`
+- `pytorch (tested with 0.4.1, v0.4.0 is known to not work)`
 - `numpy`, `skimage`, `matplotlib`
